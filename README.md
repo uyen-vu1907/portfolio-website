@@ -11,3 +11,5 @@ This is my personal portfolio website, built to showcase my web development skil
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/uyen-vu1907/portfolio-website.git
+## Note
+Updated README to test VS Code integration.
